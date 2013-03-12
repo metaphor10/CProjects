@@ -1,6 +1,9 @@
 #include <stdio.h>
 #include <math.h>
-/* recives a hex number as input and converts to integer*/
+/* 
+recives a hex number 
+as input and converts to integer 
+*/
 main()
 {
 	int multi=16;
